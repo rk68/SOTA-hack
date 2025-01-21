@@ -1,6 +1,6 @@
-# Hackathon Submission
+# Society for Technological Advancement AI Interpretability Hackathon Submission
 
-Welcome to the **Neuroscope** hackathon submission! This repository showcases a notebook demonstrating **dynamic text augmentation** and **iterative text rewriting** driven by *neuron-level activations* in a language model. 
+This repository showcases a notebook demonstrating **dynamic text augmentation** and **iterative text rewriting** driven by *neuron-level activations* in a language model. 
 
 We combine:
 - An **interpretability model** (a [Transformers-NeuronLens / EasyTransformer-like model](https://github.com/neelnanda-io/TransformerLens)) that we can query for per-token *neuron* activations.
